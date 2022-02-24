@@ -24,6 +24,7 @@ anoNasc = int(input("Qual o ano que o invidíduo nasceu? [AAAA] "))
 dataNasc = [diaNasc, mesNasc, anoNasc]
 
 
+
 ano = 365
 
 dataAtual = date.today()
